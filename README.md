@@ -3,4 +3,4 @@
 - 🌱 我正在學習c++語言
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,arduino,c,discord,firebase,flask,github,jquery,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,arduino,c,discord,firebase,flask,github,jquery,nodejs&perline=5)](https://skillicons.dev)
