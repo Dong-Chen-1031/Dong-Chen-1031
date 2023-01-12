@@ -1,3 +1,4 @@
+## About me
 - <b>👋 Hi,我是Dong Chen<b>
 -<h6>👋 Hi, I'm Dong Chen<h6/>
 
@@ -8,5 +9,7 @@
  -<h6>🌱 I am learning c++ language<h6/>
 
 <br>
-  
+ 
+## Skills
+ 
 [![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,arduino,c,discord,firebase,flask,github,jquery,nodejs&perline=5)](https://skillicons.dev)
