@@ -5,9 +5,6 @@
 - <b>👀 我十分喜愛寫程式<b>
 -<h6>👀 I love programming<h6/>
 
-- <b>🌱 我正在學習c++語言<b>
- -<h6>🌱 I am learning c++ language<h6/>
-
 <br>
  
 ## Skills
