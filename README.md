@@ -1,7 +1,3 @@
-
-##### *本 Github 帳號因疏於經營，上面都是一些非常久遠、如今看起來非常愚蠢的專案，最近兩三年的專案皆因許多原因而無法公開，進請見諒。
-###### *This Github account has been neglected, and the projects on it are all very old and look very stupid now, and the projects from the last two or three years can't be made public for many reasons, so please forgive me.
-
 ## About me
 - <b>👋 Hi,我是Dong Chen<b>
 -<h6>👋 Hi, I'm Dong Chen.<h6/>
