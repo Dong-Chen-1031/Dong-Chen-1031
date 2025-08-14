@@ -14,4 +14,4 @@ https://doong.me
  
 ## Skills
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,py,js,html,css,arduino,c,discord,bots,firebase,flask,django,figma,postman,replit,github,bootstrap&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cloudflare,gcp,notion,py,js,html,css,arduino,discord,bots,firebase,flask,django,figma,postman,replit,github,bootstrap&perline=5)](https://skillicons.dev)
