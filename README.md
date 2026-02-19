@@ -1,5 +1,3 @@
-## About me
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Dong%20Chen&fontColor=ffffff&desc=Python%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20TypeScript&descAlign=50&fontAlign=50&fontAlignY=35" width="100%" alt="header"/>
 </p>
@@ -7,10 +5,11 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Dong-Chen-1031?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/Dong-Chen-1031?tab=followers)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Dong-Chen-1031&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
 </div>
+
+---
 
 <h2 align="center" style="color:white;">👨‍💻 About Me</h2>
 <div align="center">
@@ -25,7 +24,7 @@
 </div>
 <br>
 
- <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.doong.me/api?username=Dong-Chen-1031&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
