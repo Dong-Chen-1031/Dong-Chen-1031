@@ -18,11 +18,13 @@
 
 👋 Hi, I'm Dong Chen.<br><br>
 👀 I love programming.<br><br>
-🌐 https://doong.me
+🌐 Portfolio: https://doong.me
 
 </p>
 </div>
 <br>
+
+---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
