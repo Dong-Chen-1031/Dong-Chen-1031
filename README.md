@@ -1,7 +1,7 @@
 ## About me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi, I'm Dong Chen&fontColor=ffffff&desc=Python • Open Source • TypeScript&descAlign=50&fontAlign=50&fontAlignY=35" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Dong%20Chen&fontColor=ffffff&desc=Python%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20TypeScript&descAlign=50&fontAlign=50&fontAlignY=35" width="100%" alt="header"/>
 </p>
 
 <div align="center">
